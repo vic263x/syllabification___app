@@ -1,6 +1,6 @@
 # Syllabification_app
 
-## a project in collaboration with vic263x :clipboard:
+## a project in collaboration with FlyingMedusa :clipboard:
 
 ### Main purpose of the app:
 Syllabifying the input according to the MOP (*Maximal Onset Principle*)
